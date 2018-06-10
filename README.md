@@ -1,4 +1,4 @@
-data structures hw1
+Data Structures HW1
 
 Mazing Problem
 
