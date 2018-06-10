@@ -1,3 +1,5 @@
+data structures hw1
+
 Mazing Problem
 
 Design a maze (15 X 15) 
